@@ -12,12 +12,12 @@ Variable Sampling Plans from the Public Domain Published Tables
 \tabular{ll}{
 Package: \tab AQLSchemes\cr
 Type: \tab Package\cr
-Version: \tab 0.1\cr
-Date: \tab 2018-07-06\cr
+Version: \tab 1.7-2\cr
+Date: \tab 2023-09-06\cr
 License: \tab GPL2.0\cr
 Dependencies: \tab \cr
 LazyLoad: \tab yes\cr
-Packaged: \tab 2018-07-06 19:54:07 UTC; Lawson\cr
+Packaged: \tab 2023-09-06 19:54:07 UTC; Lawson\cr
 Built: \tab R 3.5.1; i386-pc-mingw32; 2011-03-22 19:54:08 UTC; windows\cr
 }
 
